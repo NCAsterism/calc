@@ -11,6 +11,8 @@ exports.calculate = function(req, res) {
   });
 
   var operations = {
+   // java is like that - and that's the way it is
+   // java conncatenates + 
     'add':      function(a,b) { return +a + +b },
     'subtract': function(a,b) { return a - b },
     'multiply': function(a,b) { return a * b },
