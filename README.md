@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/asterismopen/calculator/_apis/build/status/NCAsterism.calc)](https://dev.azure.com/asterismopen/calculator/_build/latest?definitionId=2)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
